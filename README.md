@@ -13,3 +13,8 @@ From 2013 to 2014, the business saw notable improvements in performance metrics 
 
 However, the Enterprise segment is a major concern, consistently reporting losses throughout the year. Management needs to investigate the underlying issues, starting with the immediate cessation of discounts offered to this segment to mitigate further losses. Identifying and addressing the root causes will be crucial for turning around this segment's performance.
 
+GLIMPSE OF THE DASHBOARD:-
+
+
+
+![Capture](https://github.com/user-attachments/assets/374b3703-2552-47c3-896d-0bc1fcc2522e)
