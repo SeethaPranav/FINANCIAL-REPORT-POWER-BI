@@ -18,3 +18,6 @@ GLIMPSE OF THE DASHBOARD:-
 
 
 ![Capture](https://github.com/user-attachments/assets/374b3703-2552-47c3-896d-0bc1fcc2522e)
+![Capture1](https://github.com/user-attachments/assets/71a9e9af-3ab0-4b62-8852-ec25f0dfb2a2)
+![Capture2](https://github.com/user-attachments/assets/c6d702f8-ffb9-4074-a38c-6ba0673c9e47)
+![Capture3](https://github.com/user-attachments/assets/52f1cf2c-c7af-4f96-a760-61e3ea5fea89)
